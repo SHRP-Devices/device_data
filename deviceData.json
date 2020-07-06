@@ -424,12 +424,12 @@
         "model": "Coolpad Cool 1 Dual",
         "codeName": "c103",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Cool%201%20Dual/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/Cool%201%20Dual/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/Cool%201%20Dual/Eui/SHRP_v2.3.1_c103-165905072020.zip/download",
         "mockSrc": "img/Devices/sharpEdgeSimple.svg",
         "maintainer": "epicX",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "165905072020",
+        "currentVersion": "2.3.1",
+        "md5": "0abcb9888d6fbf8e2a89059cc50620bc"
     },
     {
         "brand": "Realme",
