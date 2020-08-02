@@ -184,12 +184,12 @@
         "model": "Xiaomi Redmi 5 Plus",
         "codeName": "vince",
         "baseURL": "https://sourceforge.net/projects/shrp/files/vince/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/vince/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/vince/SHRP_v2.3.2_vince-163021072020.zip/download",
         "mockSrc": "img/Devices/m11.svg",
         "maintainer": "ender1324",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "163021072020",
+        "currentVersion": "2.3.2",
+        "md5": "691d43b288babeec7f013d5d28acb1db"
     },
     {
         "brand": "Xiaomi",
