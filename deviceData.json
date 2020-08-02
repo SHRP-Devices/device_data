@@ -244,12 +244,12 @@
         "model": "Xiaomi Redmi Note 5A/Y1 Lite",
         "codeName": "ugglite",
         "baseURL": "https://sourceforge.net/projects/shrp/files/ugglite/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/ugglite/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/ugglite/SHRP_v2.3.2_ugglite-162721072020.zip/download",
         "mockSrc": "img/Devices/sharpEdgeSimple.svg",
         "maintainer": "frelein29",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "162721072020",
+        "currentVersion": "2.3.2",
+        "md5": "a621af855326ee513b7727823d62df35"
     },
     {
         "brand": "Xiaomi",
