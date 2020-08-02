@@ -217,6 +217,18 @@
     },
     {
         "brand": "Xiaomi",
+        "model": "Xiaomi Redmi S2",
+        "codeName": "ysl",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/ysl/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/ysl/SHRP_v2.3.2_ysl-164621072020.zip/download",
+        "mockSrc": "img/Devices/roundy.svg",
+        "maintainer": "MiDoNaSR",
+        "buildNo": "164621072020",
+        "currentVersion": "2.3.2",
+        "md5": "d730c237ef4e4a1b0e38f3d8f0ef475f"
+    },
+    {
+        "brand": "Xiaomi",
         "model": "Xiaomi Redmi Note 3 Pro",
         "codeName": "kenzo",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Kenzo/",
