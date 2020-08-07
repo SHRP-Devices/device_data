@@ -313,6 +313,18 @@
     },
     {
         "brand": "Samsung",
+        "model": "Samsung J4 Core",
+        "codeName": "j4corelte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/j4corelte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/j4corelte/SHRP_v2.3.2_j4corelte-143721072020.zip/download",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "SebaUbuntu",
+        "buildNo": "143721072020",
+        "currentVersion": "2.3.2",
+        "md5": "63746d6bb3dd185e9ccda63fd98c0dad"
+    },
+    {
+        "brand": "Samsung",
         "model": "Samsung A5 - 2017",
         "codeName": "a5y17lte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/a5y17lte/",
