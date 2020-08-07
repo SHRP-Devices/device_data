@@ -244,12 +244,12 @@
         "model": "Xiaomi Redmi Note 5",
         "codeName": "whyred",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Whyred/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/Whyred/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/Whyred/SHRP_v2.3.2_whyred-163921072020.zip/download",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "SebaUbuntu",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "163921072020",
+        "currentVersion": "2.3.2",
+        "md5": "f9ddc8850edd88f5db4e2a5fad39192c"
     },
     {
         "brand": "Xiaomi",
