@@ -388,12 +388,12 @@
         "model": "Samsung Galaxy S7 Edge",
         "codeName": "hero2lte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/hero2lte/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/hero2lte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/hero2lte/SHRP_v2.3.2_hero2lte-142921072020.zip/download",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "Morogoku",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "142921072020",
+        "currentVersion": "2.3.2",
+        "md5": "d1f7e930742962f07d9e9a6f4ca29525"
     },
     {
         "brand": "Samsung",
