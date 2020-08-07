@@ -325,6 +325,18 @@
     },
     {
         "brand": "Samsung",
+        "model": "Samsung J4+",
+        "codeName": "j4primelte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/jxprimelte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/jxprimelte/SHRP_v2.3.2_j4primelte-143921072020.zip/download",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "SebaUbuntu",
+        "buildNo": "143921072020",
+        "currentVersion": "2.3.2",
+        "md5": "dc5f216bc1373e180138cdf393cc7ab1"
+    },
+    {
+        "brand": "Samsung",
         "model": "Samsung A5 - 2017",
         "codeName": "a5y17lte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/a5y17lte/",
