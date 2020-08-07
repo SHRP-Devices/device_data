@@ -100,12 +100,12 @@
         "model": "Xiaomi Mi 9T",
         "codeName": "davinci",
         "baseURL": "https://sourceforge.net/projects/shrp/files/davinci/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/davinci/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/davinci/SHRP_v2.3.2_davinci-134921072020.zip/download",
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "GeopJr",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "134921072020",
+        "currentVersion": "2.3.2",
+        "md5": "87f61c15c31218b0666ab84c1a018464"
     },
     {
         "brand": "Xiaomi",
