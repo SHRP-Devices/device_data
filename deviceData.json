@@ -532,12 +532,12 @@
         "model": "Oneplus 3",
         "codeName": "oneplus3",
         "baseURL": "https://sourceforge.net/projects/shrp/files/OnePlus3-3T/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/OnePlus3-3T/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/OnePlus3-3T/SHRP_v2.3.2_oneplus3-155421072020.zip/download",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "TarD3X",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "155421072020",
+        "currentVersion": "2.3.2",
+        "md5": "9134518f03e2a9a6fff658a35c8ee0b3"
     },
     {
         "brand": "LeEco",
