@@ -376,12 +376,12 @@
         "model": "Samsung Galaxy S7",
         "codeName": "herolte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/herolte/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/herolte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/herolte/SHRP_v2.3.2_herolte-143321072020.zip/download",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
-        "maintainer": "Sherri",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "maintainer": "Morogoku",
+        "buildNo": "143321072020",
+        "currentVersion": "2.3.2",
+        "md5": "6f3617e0a196ce3c282f04b32d578514"
     },
     {
         "brand": "Samsung",
