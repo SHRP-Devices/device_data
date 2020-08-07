@@ -290,14 +290,14 @@
     {
         "brand": "Xiaomi",
         "model": "Xiaomi Redmi Note 8/8T",
-        "codeName": "ginkgo_willow",
+        "codeName": "ginkgo",
         "baseURL": "https://sourceforge.net/projects/shrp/files/ginkgo_willow/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/ginkgo_willow/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/ginkgo_willow/SHRP_v2.3.2_ginkgo-140921072020.zip/download",
         "mockSrc": "img/Devices/m11.svg",
         "maintainer": "smxdfx",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "140921072020",
+        "currentVersion": "2.3.2",
+        "md5": "900fa279040bd3053988bcb8cdf702a4"
     },
     {
         "brand": "Xiaomi",
