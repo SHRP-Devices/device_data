@@ -193,12 +193,12 @@
     },
     {
         "brand": "Xiaomi",
-        "model": "Xiaomi Redmi 7",
-        "codeName": "onclite",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/onclite/",
+        "model": "Xiaomi Redmi 7/Y3",
+        "codeName": "onc",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/onc/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/onclite/SHRP_v2.3.2_onclite-155021072020.zip/download",
         "mockSrc": "img/Devices/notch.svg",
-        "maintainer": "hadaddarajat",
+        "maintainer": "TheSync",
         "buildNo": "155021072020",
         "currentVersion": "2.3.2",
         "md5": "0283c040c9e552ad576691d335e4bf6d"
