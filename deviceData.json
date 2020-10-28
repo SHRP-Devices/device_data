@@ -479,6 +479,7 @@
         "currentVersion": "2.3.2",
         "md5": ""
     },
+    {
         "brand": "Samsung",
         "model": "Samsung Galaxy S10e",
         "codeName": "beyond0lte",
@@ -490,6 +491,7 @@
         "currentVersion": "2.3.2",
         "md5": ""
     },
+    {
         "brand": "Samsung",
         "model": "Samsung Galaxy S10",
         "codeName": "beyond1lte",
@@ -501,6 +503,7 @@
         "currentVersion": "2.3.2",
         "md5": ""
     },
+    {
         "brand": "Samsung",
         "model": "Samsung Galaxy S10+",
         "codeName": "beyond2lte",
@@ -512,6 +515,7 @@
         "currentVersion": "2.3.2",
         "md5": ""
     },
+    {
         "brand": "Samsung",
         "model": "Samsung Galaxy S10 5G",
         "codeName": "beyondx",
