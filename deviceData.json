@@ -349,6 +349,18 @@
     },
     {
         "brand": "Samsung",
+        "model": "Samsung A40",
+        "codeName": "a40",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/a40/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/a40/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+    {
+        "brand": "Samsung",
         "model": "Samsung A5 - 2017",
         "codeName": "a5y17lte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/a5y17lte/",
@@ -356,7 +368,7 @@
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -368,7 +380,7 @@
         "mockSrc": "img/Devices/sharpEdgeSimple.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -404,7 +416,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -416,7 +428,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -428,7 +440,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -440,7 +452,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -452,7 +464,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -464,7 +476,51 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S10e",
+        "codeName": "beyond0lte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/beyond0lte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/beyond0lte/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S10",
+        "codeName": "beyond1lte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/beyond1lte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/beyond1lte/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S10+",
+        "codeName": "beyond2lte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/beyond2lte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/beyond2lte/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+        "brand": "Samsung",
+        "model": "Samsung Galaxy S10 5G",
+        "codeName": "beyondx",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/beyondx/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/beyondx/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -585,6 +641,18 @@
         "maintainer": "steadfasterX",
         "buildNo": "",
         "currentVersion": "2.2",
+        "md5": ""
+    },
+    {
+        "brand": "10.or",
+        "model": "10.or E",
+        "codeName": "holland1",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/holland1/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/holland1/",
+        "mockSrc": "img/Devices/sharpEdgeSimple.svg",
+        "maintainer": "jay",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
