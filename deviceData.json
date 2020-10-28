@@ -644,6 +644,18 @@
         "md5": ""
     },
     {
+        "brand": "10.or",
+        "model": "10.or E",
+        "codeName": "holland1",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/holland1/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/holland1/",
+        "mockSrc": "img/Devices/sharpEdgeSimple.svg",
+        "maintainer": "jay",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
