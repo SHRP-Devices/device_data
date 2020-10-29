@@ -660,6 +660,18 @@
         "md5": ""
     },
     {
+        "brand": "Pantech",
+        "model": "SKY IM-100",
+        "codeName": "ef71",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/ef71/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/ef71/",
+        "mockSrc": "img/Devices/sharpEdgeSimple.svg",
+        "maintainer": "hiru",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
