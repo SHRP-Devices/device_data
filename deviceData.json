@@ -661,6 +661,18 @@
     },
     {
         "brand": "Pantech",
+        "model": "Vega LTE-A",
+        "codeName": "ef56",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/ef56/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/ef56/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "hiru",
+        "buildNo": "",
+        "currentVersion": "2.3.2",
+        "md5": ""
+    },
+    {
+        "brand": "Pantech",
         "model": "SKY IM-100",
         "codeName": "ef71",
         "baseURL": "https://sourceforge.net/projects/shrp/files/ef71/",
