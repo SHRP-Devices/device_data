@@ -600,6 +600,18 @@
         "md5": "9134518f03e2a9a6fff658a35c8ee0b3"
     },
     {
+        "brand": "Oneplus",
+        "model": "Oneplus 6",
+        "codeName": "enchilada",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/enchilada/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/enchilada/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "SIDDK",
+        "buildNo": "",
+        "currentVersion": "3.0",
+        "md5": ""
+    },
+    {
         "brand": "LeEco",
         "model": "LeEco Le Max 2",
         "codeName": "x2",
