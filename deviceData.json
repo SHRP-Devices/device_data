@@ -604,12 +604,12 @@
         "model": "Oneplus 6",
         "codeName": "enchilada",
         "baseURL": "https://sourceforge.net/projects/shrp/files/enchilada/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/enchilada/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/enchilada/SHRP_v3.0_stable-Official_enchilada-193910012021.zip/download",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "SIDDK",
-        "buildNo": "",
+        "buildNo": "193910012021",
         "currentVersion": "3.0",
-        "md5": ""
+        "md5": "07a4bf61a9809ad557dc98baaa812e4c"
     },
     {
         "brand": "LeEco",
