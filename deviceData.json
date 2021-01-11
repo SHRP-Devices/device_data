@@ -52,12 +52,12 @@
         "model": "Poco F1",
         "codeName": "beryllium",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Beryllium/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/Beryllium/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/Beryllium/SHRP_v3.0_stable-Official_beryllium-164610012021.zip/download",
         "mockSrc": "img/Devices/bigBathtabNotch.svg",
-        "maintainer": "Reignz3",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "maintainer": "Reignz",
+        "buildNo": "164610012021",
+        "currentVersion": "3.0",
+        "md5": "0363255c5c6de079bc6bbd1a41047d1f"
     },
     {
         "brand": "Xiaomi",
@@ -598,6 +598,18 @@
         "buildNo": "155421072020",
         "currentVersion": "2.3.2",
         "md5": "9134518f03e2a9a6fff658a35c8ee0b3"
+    },
+    {
+        "brand": "Oneplus",
+        "model": "Oneplus 6",
+        "codeName": "enchilada",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/enchilada/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/enchilada/SHRP_v3.0_stable-Official_enchilada-193910012021.zip/download",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "SIDDK",
+        "buildNo": "193910012021",
+        "currentVersion": "3.0",
+        "md5": "07a4bf61a9809ad557dc98baaa812e4c"
     },
     {
         "brand": "LeEco",
