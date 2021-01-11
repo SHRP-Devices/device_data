@@ -217,6 +217,18 @@
     },
     {
         "brand": "Xiaomi",
+        "model": "Xiaomi Redmi 8A",
+        "codeName": "olivelite",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/olivelite/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/olivelite/SHRP_v3.0_stable-Official_olivelite-154311012021.zip/download",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "TechyMinati",
+        "buildNo": "154311012021",
+        "currentVersion": "3.0",
+        "md5": "3e90b622e2ba27429b8183940632c564"
+    },
+    {
+        "brand": "Xiaomi",
         "model": "Xiaomi Redmi S2",
         "codeName": "ysl",
         "baseURL": "https://sourceforge.net/projects/shrp/files/ysl/",
