@@ -294,10 +294,10 @@
         "baseURL": "https://sourceforge.net/projects/shrp/files/violet/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/violet/",
         "mockSrc": "img/Devices/notch.svg",
-        "maintainer": "Saalim",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "maintainer": "BRock",
+        "buildNo": "050912012021",
+        "currentVersion": "3.0",
+        "md5": "6acb96efe3adf2365fb85b5dc11077ca"
     },
     {
         "brand": "Xiaomi",
