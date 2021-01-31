@@ -112,9 +112,9 @@
         "model": "Xiaomi Redmi 3S Prime",
         "codeName": "land",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Land/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/Land/SHRP_v3.0_stable-Official_land-094629012021.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/Land/SHRP_v2.2_land-141831032020.zip/download",
         "mockSrc": "img/Devices/sharpEdgeSimple.svg",
-        "maintainer": "MarvelMathesh",
+        "maintainer": "Sreeharimkl",
         "buildNo": "",
         "currentVersion": "2.2",
         "md5": ""
