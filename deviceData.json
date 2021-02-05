@@ -601,6 +601,18 @@
     },
     {
         "brand": "Asus",
+        "model": "Asus ZenFone 5 (2018)",
+        "codeName": "X00QD",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/X00QD/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/X00QD/SHRP_v3.0_stable-Official_X00QD-140529012021.zip/download",
+        "mockSrc": "img/Devices/X00QD.svg",
+        "maintainer": "Edward Wu",
+        "buildNo": "140529012021",
+        "currentVersion": "3.0",
+        "md5": "468a9123088cba9a21a15ee55c069776"
+    },
+    {
+        "brand": "Asus",
         "model": "Asus ROG Phone 2",
         "codeName": "I001D",
         "baseURL": "https://sourceforge.net/projects/shrp/files/I001D/",
