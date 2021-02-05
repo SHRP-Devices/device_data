@@ -600,6 +600,18 @@
         "md5": ""
     },
     {
+        "brand": "Asus",
+        "model": "Asus ROG Phone 2",
+        "codeName": "I001D",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/I001D/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/I001D/SHRP_v3.0_stable-Official_I001D-070323012021.zip/download",
+        "mockSrc": "img/Devices/roundy.svg",
+        "maintainer": "Divkix",
+        "buildNo": "070323012021",
+        "currentVersion": "3.0",
+        "md5": "edc4161912745c3b2ebd49496480d364"
+    },
+    {
         "brand": "Oneplus",
         "model": "Oneplus 3",
         "codeName": "oneplus3",
