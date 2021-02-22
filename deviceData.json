@@ -433,6 +433,18 @@
     },
     {
         "brand": "Samsung",
+        "model": "Samsung Galaxy Note 8",
+        "codeName": "greatlte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/greatlte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/greatlte/",
+        "mockSrc": "img/Devices/roundy.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "3.0.0",
+        "md5": ""
+    },
+    {
+        "brand": "Samsung",
         "model": "Samsung Galaxy S9",
         "codeName": "starlte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/starlte/",
@@ -449,18 +461,6 @@
         "codeName": "star2lte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/star2lte/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/star2lte/",
-        "mockSrc": "img/Devices/roundy.svg",
-        "maintainer": "corsicanu",
-        "buildNo": "",
-        "currentVersion": "3.0.0",
-        "md5": ""
-    },
-    {
-        "brand": "Samsung",
-        "model": "Samsung Galaxy Note 8",
-        "codeName": "greatlte",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/greatlte/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/greatlte/",
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
