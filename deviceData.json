@@ -528,6 +528,54 @@
         "md5": ""
     },
     {
+        "brand": "Samsung",
+        "model": "Samsung Galaxy Note 10",
+        "codeName": "d1",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/d1/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/d1/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "3.0.0",
+        "md5": ""
+    },
+    {
+        "brand": "Samsung",
+        "model": "Samsung Galaxy Note 10 5G",
+        "codeName": "d1x",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/d1x/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/d1x/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "3.0.0",
+        "md5": ""
+    },
+    {
+        "brand": "Samsung",
+        "model": "Samsung Galaxy Note 10+",
+        "codeName": "d2s",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/d2s/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/d2s/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "3.0.0",
+        "md5": ""
+    },
+    {
+        "brand": "Samsung",
+        "model": "Samsung Galaxy Note 10+ 5G",
+        "codeName": "crownlte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/d2x/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/d2x/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "corsicanu",
+        "buildNo": "",
+        "currentVersion": "3.0.0",
+        "md5": ""
+    },
+    {
         "brand": "Coolpad",
         "model": "Coolpad Cool 1 Dual",
         "codeName": "c103",
