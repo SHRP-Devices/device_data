@@ -768,6 +768,18 @@
         "md5": ""
     },
     {
+        "brand": "Realme",
+        "model": "Realme U1,
+        "codeName": "RMX1831",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX1831/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX1831/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "TheDeepakSabharwal",
+        "buildNo": "",
+        "currentVersion": "2.2",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
