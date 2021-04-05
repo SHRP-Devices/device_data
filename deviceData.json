@@ -649,6 +649,18 @@
     },
     {
         "brand": "Asus",
+        "model": "Asus Zenfone Max M2",
+        "codeName": "X01AD",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/X01AD/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/X01AD/",
+        "mockSrc": "img/Devices/5z.svg",
+        "maintainer": "SP-XD",
+        "buildNo": "134605042021",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Asus",
         "model": "Asus ZenFone 5Z",
         "codeName": "Z01RD",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Z01RD/",
