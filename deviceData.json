@@ -589,6 +589,18 @@
     },
     {
         "brand": "Realme",
+        "model": "Realme 2 Pro",
+        "codeName": "RMX1801",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX1801/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX1801/SHRP_v3.1_stable-Official_RMX1801-091505042021.zip/download",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "ad1tyas1ngh",
+        "buildNo": "091505042021",
+        "currentVersion": "3.1",
+        "md5": "a6ab590d33016be1847166947540ee76"
+    },
+    {
+        "brand": "Realme",
         "model": "Realme 3 Pro",
         "codeName": "RMX1851",
         "baseURL": "https://sourceforge.net/projects/shrp/files/RMX1851/",
