@@ -28,12 +28,12 @@
         "model": "Xiaomi Mi A3",
         "codeName": "laurel_sprout",
         "baseURL": "https://sourceforge.net/projects/shrp/files/laurel_sprout/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/laurel_sprout/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/laurel_sprout/SHRP_v3.1_stable-Official_laurel_sprout-073305042021.zip/download",
         "mockSrc": "img/Devices/m11.svg",
-        "maintainer": "Oddlyspaced",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "maintainer": "HemantSachdeva",
+        "buildNo": "073305042021",
+        "currentVersion": "3.1",
+        "md5": "8cfa43ac3badbded689bce7a6597ff6c"
     },
     {
         "brand": "Xiaomi",
