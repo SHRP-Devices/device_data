@@ -652,12 +652,12 @@
         "model": "Asus ROG Phone 2",
         "codeName": "I001D",
         "baseURL": "https://sourceforge.net/projects/shrp/files/I001D/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/I001D/SHRP_v3.0_stable-Official_I001D-070323012021.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/I001D/SHRP_v3.1_stable-Official_I001D-080805042021.zip/download",
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "Divkix",
-        "buildNo": "070323012021",
-        "currentVersion": "3.0",
-        "md5": "edc4161912745c3b2ebd49496480d364"
+        "buildNo": "080805042021",
+        "currentVersion": "3.1",
+        "md5": "b7680855d9521298f30f3be0f4f4e2d0"
     },
     {
         "brand": "Oneplus",
