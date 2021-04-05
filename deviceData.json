@@ -361,6 +361,18 @@
     },
     {
         "brand": "Samsung",
+        "model": "Samsung A10",
+        "codeName": "a10",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/a10/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/a10/SHRP_v3.1_stable-Official_a10-101105042021.zip/download",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "Gabriel260",
+        "buildNo": "101105042021",
+        "currentVersion": "3.1",
+        "md5": "9c756890375ab06f406571f0d99a3889"
+    },
+    {
+        "brand": "Samsung",
         "model": "Samsung A5 - 2017",
         "codeName": "a5y17lte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/a5y17lte/",
