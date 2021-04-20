@@ -640,12 +640,12 @@
         "model": "Asus Zenfone Max Pro M1",
         "codeName": "X00T",
         "baseURL": "https://sourceforge.net/projects/shrp/files/X00T/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/X00T/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/X00T/SHRP_v3.1_stable-Official_X00T-092112042021.zip/download",
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "epicX",
-        "buildNo": "",
-        "currentVersion": "2.2",
-        "md5": ""
+        "buildNo": "092112042021",
+        "currentVersion": "3.1",
+        "md5": "8d0cce2d6d511f1451fbc932d3f11b4c"
     },
     {
         "brand": "Asus",
