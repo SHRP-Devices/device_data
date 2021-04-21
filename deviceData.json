@@ -852,6 +852,18 @@
         "md5": ""
     },
     {
+        "brand": "Oneplus",
+        "model": "Oneplus 7T pro",
+        "codeName": "hotdog",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/hotdog/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/hotdog/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "steadfasterX",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
