@@ -816,6 +816,18 @@
         "md5": ""
     },
     {
+        "brand": "Samsung",
+        "model": "Samsung J5 - 2017",
+        "codeName": "j5y17lte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/j5y17lte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/j5y17lte/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "steadfasterX",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
