@@ -828,6 +828,18 @@
         "md5": ""
     },
     {
+        "brand": "Samsung",
+        "model": "Samsung SM-T285",
+        "codeName": "gtexslte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/gtexslte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/gtexslte/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "steadfasterX",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
