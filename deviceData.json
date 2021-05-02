@@ -385,6 +385,18 @@
     },
     {
         "brand": "Samsung",
+        "model": "Samsung A20s",
+        "codeName": "a20s",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/a20s/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/a20s/SHRP_v3.1_stable-Official_a20s-1619816499.zip/download",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "Velosh",
+        "buildNo": "1619816499",
+        "currentVersion": "3.1",
+        "md5": "dc979339880ccea596d503b9e10ee13e"
+    },
+    {
+        "brand": "Samsung",
         "model": "Samsung A5 - 2017",
         "codeName": "a5y17lte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/a5y17lte/",
