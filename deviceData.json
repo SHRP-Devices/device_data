@@ -136,11 +136,11 @@
         "model": "Xiaomi Redmi 4 Prime",
         "codeName": "markw",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Markw/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/Markw/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/Markw/SHRP_v3.1_stable-Official_markw-1627368182.zip/download",
         "mockSrc": "img/Devices/sharpEdgeSimple.svg",
         "maintainer": "Tostisto",
         "buildNo": "",
-        "currentVersion": "3.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
