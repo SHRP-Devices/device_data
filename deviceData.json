@@ -780,6 +780,18 @@
         "md5": ""
     },
     {
+        "brand": "Realme",
+        "model": "Realme X",
+        "codeName": "RMX1901",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX1901/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX1901/",
+        "mockSrc": "img/Devices/bezelLess.svg",
+        "maintainer": "HaSSaN",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Asus",
         "model": "Asus Zenfone Max Pro M1",
         "codeName": "X00T",
