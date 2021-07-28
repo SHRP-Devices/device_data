@@ -360,6 +360,18 @@
         "md5": ""
     },
     {
+        "brand": "Xiaomi",
+        "model": "Redmi Note 9",
+        "codeName": "merlin",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/merlin/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/merlin/",
+        "mockSrc": "img/Devices/infinityOLeft.svg",
+        "maintainer": "Box_Boi",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Samsung",
         "model": "Samsung J4 Core",
         "codeName": "j4corelte",
