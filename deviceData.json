@@ -708,6 +708,18 @@
         "md5": ""
     },
     {
+        "brand": "Samsung",
+        "model": "Samsung Galaxy M31",
+        "codeName": "m31nsxx",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/m31nsxx/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/m31nsxx/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "soulr344",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Coolpad",
         "model": "Coolpad Cool 1 Dual",
         "codeName": "c103",
