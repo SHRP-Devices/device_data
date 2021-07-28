@@ -32,7 +32,7 @@
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "XRedCubeX",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -56,7 +56,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "Pallavjparikh",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -80,15 +80,15 @@
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "DarkAmy",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.1",
         "md5": ""
     },
     {
         "brand": "Xiaomi",
         "model": "Xiaomi Mi 8 SE",
         "codeName": "xmsirius",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/sirius/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/sirius/",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/xmsirius/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/xmsirius/",
         "mockSrc": "img/Devices/m11.svg",
         "maintainer": "Uixdess",
         "buildNo": "",
@@ -104,7 +104,7 @@
         "mockSrc": "img/Devices/midBathtabNotch.svg",
         "maintainer": "DarkAngelGR",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.1",
         "md5": ""
     },
     {
@@ -124,23 +124,35 @@
         "model": "Xiaomi Mi 9T",
         "codeName": "davinci",
         "baseURL": "https://sourceforge.net/projects/shrp/files/davinci/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/davinci/SHRP_v2.3.2_davinci-134921072020.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/davinci/SHRP_v3.1_stable-Official_davinci-061206042021.zip/download",
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "GeopJr",
-        "buildNo": "134921072020",
-        "currentVersion": "2.3.2",
-        "md5": "87f61c15c31218b0666ab84c1a018464"
+        "buildNo": "061206042021",
+        "currentVersion": "3.1",
+        "md5": "f702f27dd3dd50ba44a20c5ebb086220"
+    },
+    {
+        "brand": "Xiaomi",
+        "model": "Xiaomi Mi 9 Lite",
+        "codeName": "pyxis",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/pyxis/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/pyxis/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "DarkAngelGR",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": "78004b1f0345655608c460f7b0264bac"
     },
     {
         "brand": "Xiaomi",
         "model": "Xiaomi Redmi 3S Prime",
         "codeName": "land",
         "baseURL": "https://sourceforge.net/projects/shrp/files/Land/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/Land/SHRP_v3.0_stable-Official_land-094629012021.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/Land/SHRP_v3.1_stable-Official_land-075906042021.zip/download",
         "mockSrc": "img/Devices/sharpEdgeSimple.svg",
         "maintainer": "MarvelMathesh",
         "buildNo": "",
-        "currentVersion": "3.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -188,7 +200,7 @@
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "Agus",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.2",
         "md5": ""
     },
     {
@@ -218,8 +230,8 @@
     {
         "brand": "Xiaomi",
         "model": "Xiaomi Redmi 7/Y3",
-        "codeName": "onc",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/onc/",
+        "codeName": "onclite",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/onclite/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/onclite/SHRP_v2.3.2_onclite-155021072020.zip/download",
         "mockSrc": "img/Devices/notch.svg",
         "maintainer": "TheSync",
@@ -247,21 +259,21 @@
         "latestBuild": "https://sourceforge.net/projects/shrp/files/olivelite/SHRP_v3.0_stable-Official_olivelite-154311012021.zip/download",
         "mockSrc": "img/Devices/m11.svg",
         "maintainer": "TechyMinati",
-        "buildNo": "154311012021",
-        "currentVersion": "3.0",
-        "md5": "3e90b622e2ba27429b8183940632c564"
+        "buildNo": "091405042021",
+        "currentVersion": "3.1",
+        "md5": "b0c6626e27b863bbb20a10e86d17ab15"
     },
     {
         "brand": "Xiaomi",
         "model": "Xiaomi Redmi S2",
         "codeName": "ysl",
         "baseURL": "https://sourceforge.net/projects/shrp/files/ysl/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/ysl/SHRP_v2.3.2_ysl-164621072020.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/ysl/SHRP_v3.1_stable-Official_ysl-004306042021.zip/download",
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "MiDoNaSR",
-        "buildNo": "164621072020",
-        "currentVersion": "2.3.2",
-        "md5": "d730c237ef4e4a1b0e38f3d8f0ef475f"
+        "buildNo": "004306042021",
+        "currentVersion": "3.1",
+        "md5": "04b8bda2e1ac767a56f0e7e611603f39"
     },
     {
         "brand": "Xiaomi",
@@ -308,7 +320,7 @@
         "mockSrc": "img/Devices/notch.svg",
         "maintainer": "Giovix92",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "2.3.1",
         "md5": ""
     },
     {
@@ -421,6 +433,18 @@
     },
     {
         "brand": "Xiaomi",
+        "model": "Redmi Note 6 Pro",
+        "codeName": "tulip",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/tulip/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/tulip/",
+        "mockSrc": "img/Devices/bigBathtabNotch.svg",
+        "maintainer": "Divkix",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Xiaomi",
         "model": "Mi 10i / 10T lite/ Redmi Note 9 Pro 5G",
         "codeName": "Gauguin",
         "baseURL": "https://sourceforge.net/projects/shrp/files/gauguin/",
@@ -512,7 +536,7 @@
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -524,7 +548,7 @@
         "mockSrc": "img/Devices/sharpEdgeSimple.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -532,12 +556,12 @@
         "model": "Samsung Galaxy S7",
         "codeName": "herolte",
         "baseURL": "https://sourceforge.net/projects/shrp/files/herolte/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/herolte/SHRP_v2.3.2_herolte-143321072020.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/herolte/SHRP_v3.1_stable-Official_herolte-182505042021.zip/download",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "Morogoku",
         "buildNo": "143321072020",
-        "currentVersion": "2.3.2",
-        "md5": "6f3617e0a196ce3c282f04b32d578514"
+        "currentVersion": "3.1",
+        "md5": "0d7edad60741b4bda3107b5c597a40a0"
     },
     {
         "brand": "Samsung",
@@ -560,7 +584,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -572,7 +596,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -584,7 +608,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -596,7 +620,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -608,7 +632,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -620,7 +644,7 @@
         "mockSrc": "img/Devices/roundy.svg",
         "maintainer": "corsicanu",
         "buildNo": "",
-        "currentVersion": "3.0.0",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -768,6 +792,18 @@
         "md5": ""
     },
     {
+        "brand": "Samsung",
+        "model": "Samsung Note 7 / FE",
+        "codeName": "gracelte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/gracelte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/gracelte/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "Morogoku",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Coolpad",
         "model": "Coolpad Cool 1 Dual",
         "codeName": "c103",
@@ -876,6 +912,18 @@
         "md5": ""
     },
     {
+        "brand": "Realme",
+        "model": "Realme 1",
+        "codeName": "CPH1861",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/CPH1861/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/CPH1861/",
+        "mockSrc": "img/Devices/pixelWithoutNotch.svg",
+        "maintainer": "Pro Noob",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Asus",
         "model": "Asus Zenfone Max Pro M1",
         "codeName": "X00T",
@@ -908,7 +956,7 @@
         "mockSrc": "img/Devices/5z.svg",
         "maintainer": "Aryan Arora",
         "buildNo": "",
-        "currentVersion": "2.2",
+        "currentVersion": "3.1",
         "md5": ""
     },
     {
@@ -916,12 +964,12 @@
         "model": "Asus ZenFone 5 (2018)",
         "codeName": "X00QD",
         "baseURL": "https://sourceforge.net/projects/shrp/files/X00QD/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/X00QD/SHRP_v3.0_stable-Official_X00QD-140529012021.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/X00QD/SHRP_v3.1_stable-Official_X00QD-121405042021.zip/download",
         "mockSrc": "img/Devices/X00QD.svg",
         "maintainer": "Edward Wu",
-        "buildNo": "140529012021",
-        "currentVersion": "3.0",
-        "md5": "468a9123088cba9a21a15ee55c069776"
+        "buildNo": "121405042021",
+        "currentVersion": "3.1",
+        "md5": "5a1197ff3e1b1beee8b8e0612d8205a8"
     },
     {
         "brand": "Asus",
@@ -952,12 +1000,12 @@
         "model": "Oneplus 6",
         "codeName": "enchilada",
         "baseURL": "https://sourceforge.net/projects/shrp/files/enchilada/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/enchilada/SHRP_v3.0_stable-Official_enchilada-193910012021.zip/download",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/enchilada/SHRP_v3.1_stable-Official_enchilada-073406042021.img/download",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "SIDDK",
-        "buildNo": "193910012021",
-        "currentVersion": "3.0",
-        "md5": "07a4bf61a9809ad557dc98baaa812e4c"
+        "buildNo": "073406042021",
+        "currentVersion": "3.1",
+        "md5": "163b65cf4dbce94547f4291081cca64d"
     },
     {
         "brand": "Oneplus",
@@ -965,7 +1013,7 @@
         "codeName": "fajita",
         "baseURL": "https://sourceforge.net/projects/shrp/files/fajita/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/fajita/",
-        "mockSrc": "img/Devices/notchTearDrop_.png",
+        "mockSrc": "img/Devices/m11.svg",
         "maintainer": "steadfasterX",
         "buildNo": "",
         "currentVersion": "3.1",
