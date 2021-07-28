@@ -336,6 +336,18 @@
         "md5": ""
     },
     {
+        "brand": "Xiaomi",
+        "model": "Xiaomi Redmi Go",
+        "codeName": "tiare",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/tiare/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/tiare/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "minatiscape",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Samsung",
         "model": "Samsung J4 Core",
         "codeName": "j4corelte",
