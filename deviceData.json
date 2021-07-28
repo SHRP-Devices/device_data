@@ -109,6 +109,18 @@
     },
     {
         "brand": "Xiaomi",
+        "model": "Xiaomi Mi 9",
+        "codeName": "cepheus",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/cepheus/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/cepheus/",
+        "mockSrc": "img/Devices/notch.svg",
+        "maintainer": "Giovix92",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Xiaomi",
         "model": "Xiaomi Mi 9T",
         "codeName": "davinci",
         "baseURL": "https://sourceforge.net/projects/shrp/files/davinci/",
