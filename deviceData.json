@@ -408,6 +408,18 @@
         "md5": ""
     },
     {
+        "brand": "Xiaomi",
+        "model": "Poco M2",
+        "codeName": "shiva",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/shiva/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/shiva/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "zubairk22",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Samsung",
         "model": "Samsung J4 Core",
         "codeName": "j4corelte",
