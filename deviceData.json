@@ -348,6 +348,18 @@
         "md5": ""
     },
     {
+        "brand": "Xiaomi",
+        "model": "Redmi 9/ 9 Prime",
+        "codeName": "lancelot",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/lancelot/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/lancelot/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "Box_Boi",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Samsung",
         "model": "Samsung J4 Core",
         "codeName": "j4corelte",
