@@ -720,6 +720,30 @@
         "md5": ""
     },
     {
+        "brand": "Samsung",
+        "model": "Samsung J5 - 2017",
+        "codeName": "j5y17lte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/j5y17lte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/j5y17lte/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "steadfasterX",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Samsung",
+        "model": "Samsung SM-T285",
+        "codeName": "gtexslte",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/gtexslte/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/gtexslte/",
+        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "maintainer": "steadfasterX",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Coolpad",
         "model": "Coolpad Cool 1 Dual",
         "codeName": "c103",
@@ -799,6 +823,30 @@
         "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX2185/",
         "mockSrc": "img/Devices/m11.svg",
         "maintainer": "techyminati",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Realme",
+        "model": "Realme U1",
+        "codeName": "RMX1831",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX1831/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX1831/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "TheDeepakSabharwal",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Realme",
+        "model": "Realme C2",
+        "codeName": "RMX1941",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX1941/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX1941/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "SIDDK",
         "buildNo": "",
         "currentVersion": "3.1",
         "md5": ""
@@ -888,6 +936,30 @@
         "md5": "07a4bf61a9809ad557dc98baaa812e4c"
     },
     {
+        "brand": "Oneplus",
+        "model": "Oneplus 6T",
+        "codeName": "fajita",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/fajita/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/fajita/",
+        "mockSrc": "img/Devices/notchTearDrop_.png",
+        "maintainer": "steadfasterX",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Oneplus",
+        "model": "Oneplus 7T pro",
+        "codeName": "hotdog",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/hotdog/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/hotdog/",
+        "mockSrc": "img/Devices/bezelLess.svg",
+        "maintainer": "steadfasterX",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "LeEco",
         "model": "LeEco Le Max 2",
         "codeName": "x2",
@@ -969,66 +1041,6 @@
         "maintainer": "hiru",
         "buildNo": "",
         "currentVersion": "2.3.2",
-        "md5": ""
-    },
-    {
-        "brand": "Realme",
-        "model": "Realme U1",
-        "codeName": "RMX1831",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX1831/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX1831/",
-        "mockSrc": "img/Devices/m11.svg",
-        "maintainer": "TheDeepakSabharwal",
-        "buildNo": "",
-        "currentVersion": "3.1",
-        "md5": ""
-    },
-    {
-        "brand": "Samsung",
-        "model": "Samsung J5 - 2017",
-        "codeName": "j5y17lte",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/j5y17lte/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/j5y17lte/",
-        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
-        "maintainer": "steadfasterX",
-        "buildNo": "",
-        "currentVersion": "3.1",
-        "md5": ""
-    },
-    {
-        "brand": "Samsung",
-        "model": "Samsung SM-T285",
-        "codeName": "gtexslte",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/gtexslte/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/gtexslte/",
-        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
-        "maintainer": "steadfasterX",
-        "buildNo": "",
-        "currentVersion": "3.1",
-        "md5": ""
-    },
-    {
-        "brand": "Oneplus",
-        "model": "Oneplus 6T",
-        "codeName": "fajita",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/fajita/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/fajita/",
-        "mockSrc": "img/Devices/notchTearDrop_.png",
-        "maintainer": "steadfasterX",
-        "buildNo": "",
-        "currentVersion": "3.1",
-        "md5": ""
-    },
-    {
-        "brand": "Oneplus",
-        "model": "Oneplus 7T pro",
-        "codeName": "hotdog",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/hotdog/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/hotdog/",
-        "mockSrc": "img/Devices/bezelLess.svg",
-        "maintainer": "steadfasterX",
-        "buildNo": "",
-        "currentVersion": "3.1",
         "md5": ""
     },
     {
