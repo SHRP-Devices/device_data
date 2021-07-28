@@ -720,6 +720,18 @@
         "md5": ""
     },
     {
+        "brand": "Realme",
+        "model": "Realme C3/Narzo 10A",
+        "codeName": "RMX2020",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX2020/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX2020/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "sarthakroy2002",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Asus",
         "model": "Asus Zenfone Max Pro M1",
         "codeName": "X00T",
