@@ -372,6 +372,18 @@
         "md5": ""
     },
     {
+        "brand": "Xiaomi",
+        "model": "Redmi 6",
+        "codeName": "cereus",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/cereus/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/cereus/",
+        "mockSrc": "img/Devices/moreRoundedEdgeSimple.svg",
+        "maintainer": "yarpopkov",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Samsung",
         "model": "Samsung J4 Core",
         "codeName": "j4corelte",
