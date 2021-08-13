@@ -1116,18 +1116,18 @@
         "md5": ""
     },
     {
-        "brand": "Dummy"
-    }
-    {
         "brand": "TECNO",
         "model": "TECNO Camon 15 Air",
         "codeName": "TECNO_Camon_15_Air",
         "baseURL": "https://sourceforge.net/projects/shrp/files/TECNO-CD6-SHRP/",
         "latestBuild": "https://sourceforge.net/projects/SHRP/files/TECNO-CD6-SHRP/",
-        "mockSrc":img/Devices/sharpEdgeSimple.svg" alt="Your Logo Alt" onerror="this.src='your-alternative-image.png'">",
+        "mockSrc":"img/Devices/m11.svg",
         "maintainer": "Mikesew1320",
         "buildNo": "2021-08-13",
         "currentVersion": "3.1",
         "md5": ""
     },
+    {
+        "brand": "Dummy"
+    }
 ]
