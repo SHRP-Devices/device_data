@@ -342,10 +342,10 @@
         "baseURL": "https://sourceforge.net/projects/shrp/files/ginkgo_willow/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/ginkgo_willow/SHRP_v2.3.2_ginkgo-140921072020.zip/download",
         "mockSrc": "img/Devices/m11.svg",
-        "maintainer": "smxdfx",
-        "buildNo": "140921072020",
-        "currentVersion": "2.3.2",
-        "md5": "900fa279040bd3053988bcb8cdf702a4"
+        "maintainer": "rxuglr",
+        "buildNo": "1628599363",
+        "currentVersion": "3.1",
+        "md5": "9d062f057a9d3252e33c93eed4486af6"
     },
     {
         "brand": "Xiaomi",
