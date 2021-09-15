@@ -533,7 +533,7 @@
         "codeName": "a70q",
         "baseURL": "https://sourceforge.net/projects/shrp/files/a70q/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/a70q/SHRP_v3.1_stable-Official_a70q-1628909156.zip/download",
-        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
+        "mockSrc": "img/Devices/m11.svg",
         "maintainer": "dotA",
         "buildNo": "1628909156",
         "currentVersion": "3.1",
