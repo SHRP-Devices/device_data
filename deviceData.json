@@ -520,12 +520,12 @@
         "model": "Samsung A20s",
         "codeName": "a20s",
         "baseURL": "https://sourceforge.net/projects/shrp/files/a20s/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/a20s/SHRP_v3.1_stable-Official_a20s-1619816499.zip/download",
-        "mockSrc": "img/Devices/roundedEdgeSimple.svg",
-        "maintainer": "Velosh",
-        "buildNo": "1619816499",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/a20s/SHRP_v3.1_stable-Official_a20s-1634527453.zip/download",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "dotA",
+        "buildNo": "101105042021",
         "currentVersion": "3.1",
-        "md5": "dc979339880ccea596d503b9e10ee13e"
+        "md5": "6fab429f0fecfe11732cf851cdb8f3a1"
     },
     {
         "brand": "Samsung",
