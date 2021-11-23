@@ -1140,6 +1140,18 @@
         "md5": ""
     },
     {
+        "brand": "Lenovo",
+        "model": "Lenovo Z5s",
+        "codeName": "jd2019",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/jd2019/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/jd2019/SHRP_v3.1_stable-Official_jd2019-1629404610.zip/download",
+        "mockSrc":"img/Devices/m11.svg",
+        "maintainer": "CakesTwix",
+        "buildNo": "2021-08-19",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Dummy"
     }
 ]
