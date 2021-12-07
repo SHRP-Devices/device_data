@@ -1,17 +1,5 @@
 [
     {
-        "brand": "POCO",
-        "model": "Poco X2",
-        "codeName": "phoenix",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/phoenix/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/phoenix/",
-        "mockSrc": "img/Devices/doubleInfinity+ORight.svg",
-        "maintainer": "Hraj9258",
-        "buildNo": "16199456139",
-        "currentVersion": "3.1",
-        "md5": ""
-    },
-    {
         "brand": "Xiaomi",
         "model": "Xiaomi Mi A1",
         "codeName": "tissot",
@@ -456,7 +444,7 @@
         "md5": ""
     },
     {
-        "brand": "Xiaomi",
+        "brand": "POCO",
         "model": "Poco M2",
         "codeName": "shiva",
         "baseURL": "https://sourceforge.net/projects/shrp/files/shiva/",
@@ -464,6 +452,18 @@
         "mockSrc": "img/Devices/m11.svg",
         "maintainer": "zubairk22",
         "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "POCO",
+        "model": "Poco X2",
+        "codeName": "phoenix",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/phoenix/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/phoenix/",
+        "mockSrc": "img/Devices/doubleInfinity+ORight.svg",
+        "maintainer": "Hraj9258",
+        "buildNo": "16199456139",
         "currentVersion": "3.1",
         "md5": ""
     },
