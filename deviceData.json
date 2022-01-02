@@ -925,6 +925,18 @@
     },
     {
         "brand": "Realme",
+        "model": "Realme Narzo 20A",
+        "codeName": "RMX2050",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX2050/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX2050/",
+        "mockSrc": "img/Devices/m11.svg",
+        "maintainer": "SIDDK",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Realme",
         "model": "Realme 1",
         "codeName": "CPH1861",
         "baseURL": "https://sourceforge.net/projects/shrp/files/CPH1861/",
@@ -1009,24 +1021,12 @@
     },
     {
         "brand": "Oneplus",
-        "model": "Oneplus 6",
-        "codeName": "enchilada",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/enchilada/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/enchilada/SHRP_v3.1_stable-Official_enchilada-073406042021.img/download",
+        "model": "Oneplus 6 & 6T",
+        "codeName": "OP6xT",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/OP6xT/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/OP6xT/",
         "mockSrc": "img/Devices/roundedEdgeSimple.svg",
         "maintainer": "SIDDK",
-        "buildNo": "073406042021",
-        "currentVersion": "3.1",
-        "md5": "163b65cf4dbce94547f4291081cca64d"
-    },
-    {
-        "brand": "Oneplus",
-        "model": "Oneplus 6T",
-        "codeName": "fajita",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/fajita/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/fajita/",
-        "mockSrc": "img/Devices/m11.svg",
-        "maintainer": "steadfasterX",
         "buildNo": "",
         "currentVersion": "3.1",
         "md5": ""
