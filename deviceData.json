@@ -385,18 +385,6 @@
     },
     {
         "brand": "Xiaomi",
-        "model": "Redmi Note 9S / 9 Pro / 9 Pro Max, Poco M2",
-        "codeName": "miatoll",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/miatoll/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/miatoll/",
-        "mockSrc": "img/Devices/infinityOLeft.svg",
-        "maintainer": "dereference",
-        "buildNo": "",
-        "currentVersion": "3.1",
-        "md5": ""
-    },
-    {
-        "brand": "Xiaomi",
         "model": "Redmi 6",
         "codeName": "cereus",
         "baseURL": "https://sourceforge.net/projects/shrp/files/cereus/",
@@ -427,18 +415,6 @@
         "latestBuild": "https://sourceforge.net/projects/shrp/files/tulip/",
         "mockSrc": "img/Devices/bigBathtabNotch.svg",
         "maintainer": "Divkix",
-        "buildNo": "",
-        "currentVersion": "3.1",
-        "md5": ""
-    },
-    {
-        "brand": "Xiaomi",
-        "model": "Mi 10i / 10T lite/ Redmi Note 9 Pro 5G",
-        "codeName": "Gauguin",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/gauguin/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/gauguin/",
-        "mockSrc": "img/Devices/infinityOLeft.svg",
-        "maintainer": "Droneship",
         "buildNo": "",
         "currentVersion": "3.1",
         "md5": ""
@@ -1220,6 +1196,42 @@
         "mockSrc":"img/Devices/m11.svg",
         "maintainer": "CakesTwix",
         "buildNo": "2021-08-19",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Unified",
+        "model": "Poco F3/Redmi K40/Mi 11 X",
+        "codeName": "alioth",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/alioth/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/alioth/",
+        "mockSrc": "img/Devices/bezelLess.svg",
+        "maintainer": "Pranav Talmale",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Unified",
+        "model": "Redmi Note 9S / 9 Pro / 9 Pro Max, Poco M2",
+        "codeName": "miatoll",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/miatoll/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/miatoll/",
+        "mockSrc": "img/Devices/infinityOLeft.svg",
+        "maintainer": "dereference",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "Unified",
+        "model": "Mi 10i / 10T lite/ Redmi Note 9 Pro 5G",
+        "codeName": "Gauguin",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/gauguin/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/gauguin/",
+        "mockSrc": "img/Devices/infinityOLeft.svg",
+        "maintainer": "Droneship",
+        "buildNo": "",
         "currentVersion": "3.1",
         "md5": ""
     },
