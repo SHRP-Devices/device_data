@@ -1008,6 +1008,18 @@
         "md5": ""
     },
     {
+        "brand": "Realme",
+        "model": "Realme 6",
+        "codeName": "RMX2001",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/RMX2001/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/RMX2001/",
+        "mockSrc": "img/Devices/infinityOLeft.svg",
+        "maintainer": "Alex9329",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "Asus",
         "model": "Asus Zenfone Max Pro M1",
         "codeName": "X00T",
