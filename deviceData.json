@@ -49,18 +49,6 @@
     },
     {
         "brand": "Xiaomi",
-        "model": "Poco F1",
-        "codeName": "beryllium",
-        "baseURL": "https://sourceforge.net/projects/shrp/files/Beryllium/",
-        "latestBuild": "https://sourceforge.net/projects/shrp/files/Beryllium/SHRP_v3.0_stable-Official_beryllium-164610012021.zip/download",
-        "mockSrc": "img/Devices/bigBathtabNotch.svg",
-        "maintainer": "Reignz",
-        "buildNo": "164610012021",
-        "currentVersion": "3.1",
-        "md5": "0363255c5c6de079bc6bbd1a41047d1f"
-    },
-    {
-        "brand": "Xiaomi",
         "model": "Xiaomi Mi 6X",
         "codeName": "wayne",
         "baseURL": "https://sourceforge.net/projects/shrp/files/wayne/",
@@ -421,6 +409,18 @@
     },
     {
         "brand": "POCO",
+        "model": "Poco F1",
+        "codeName": "beryllium",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/Beryllium/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/Beryllium/SHRP_v3.0_stable-Official_beryllium-164610012021.zip/download",
+        "mockSrc": "img/Devices/bigBathtabNotch.svg",
+        "maintainer": "Reignz",
+        "buildNo": "164610012021",
+        "currentVersion": "3.1",
+        "md5": "0363255c5c6de079bc6bbd1a41047d1f"
+    },
+    {
+        "brand": "POCO",
         "model": "Poco M2",
         "codeName": "shiva",
         "baseURL": "https://sourceforge.net/projects/shrp/files/shiva/",
@@ -440,6 +440,18 @@
         "mockSrc": "img/Devices/doubleInfinity+ORight.svg",
         "maintainer": "Hraj9258",
         "buildNo": "16199456139",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
+        "brand": "POCO",
+        "model": "Poco X3",
+        "codeName": "surya",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/surya/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/surya/",
+        "mockSrc": "img/Devices/infinityOCenter.svg",
+        "maintainer": "rxuglr",
+        "buildNo": "",
         "currentVersion": "3.1",
         "md5": ""
     },
