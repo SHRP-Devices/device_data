@@ -1104,6 +1104,18 @@
         "md5": ""
     },
     {
+        "brand": "Oneplus",
+        "model": "Oneplus Nord",
+        "codeName": "avicii",
+        "baseURL": "https://sourceforge.net/projects/shrp/files/avicii/",
+        "latestBuild": "https://sourceforge.net/projects/shrp/files/avicii/",
+        "mockSrc": "img/Devices/doubleInfinity+OLeft.svg",
+        "maintainer": "Sreeshankar.K",
+        "buildNo": "",
+        "currentVersion": "3.1",
+        "md5": ""
+    },
+    {
         "brand": "LeEco",
         "model": "LeEco Le Max 2",
         "codeName": "x2",
