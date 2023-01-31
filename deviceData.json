@@ -1262,7 +1262,7 @@
     {
         "brand": "Unified",
         "model": "Redmi 7A / Redmi 8 / 8A / 8A Dual",
-        "codeName": "pine",
+        "codeName": "mi439",
         "baseURL": "https://sourceforge.net/projects/shrp/files/mi439/",
         "latestBuild": "https://sourceforge.net/projects/shrp/files/mi439/",
         "mockSrc": "img/Devices/roundy.svg",
